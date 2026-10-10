@@ -1,3 +1,3 @@
 # coding works
 C only
-will do assignments, projects, topics here for future reference
+This repository contains my personal college lab exercises and learning notes. Not accepting external pull requests.
