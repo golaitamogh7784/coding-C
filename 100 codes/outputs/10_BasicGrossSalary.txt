@@ -1,7 +1,7 @@
 Enter the basic salary: 15000
 HRA: 3750.00
 DA: 13500.00
-Gross salary: 32250.00
+Gross salary: 32250.0
 
 
 
