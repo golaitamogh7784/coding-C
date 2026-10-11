@@ -1,0 +1,3 @@
+Enter the coordinates (x, y): 4
+5
+The point (4, 5) is in the first quadrant.

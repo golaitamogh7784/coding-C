@@ -1,0 +1,5 @@
+Enter the lengths of the three sides of the triangle:
+4
+4
+4
+The triangle is equilateral.

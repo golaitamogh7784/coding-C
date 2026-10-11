@@ -1,0 +1,3 @@
+Enter a character:
+A
+A is an uppercase letter.

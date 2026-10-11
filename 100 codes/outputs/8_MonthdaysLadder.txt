@@ -1,0 +1,3 @@
+Enter the month number (1-12):
+10
+October has 31 days.

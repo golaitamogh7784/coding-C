@@ -1,0 +1,3 @@
+Enter a character:
+x
+x is an alphabet.
