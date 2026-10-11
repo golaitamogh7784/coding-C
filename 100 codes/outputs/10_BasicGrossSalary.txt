@@ -6,7 +6,7 @@ Gross salary: 32250.00
 
 
 
-//note:  This can be used for same output
+note:  This can be used for same output
 
 hra = basicSalary <= 10000 ? basicSalary * 0.20f
                                : basicSalary <= 20000 ? basicSalary * 0.25f
@@ -14,4 +14,4 @@ hra = basicSalary <= 10000 ? basicSalary * 0.20f
     da = basicSalary <= 10000 ? basicSalary * 0.80f
                               : basicSalary <= 20000 ? basicSalary * 0.90f
                                                      : basicSalary * 0.95f;
-    grossSalary = basicSalary + hra + da;//
+    grossSalary = basicSalary + hra + da;
