@@ -1,0 +1,10 @@
+Enter int:
+12
+Enter float:
+4.44
+Enter double:
+180.43
+Enter char:
+hello
+Size of int: 4 bytes
+Size of float: 4 bytes

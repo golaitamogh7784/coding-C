@@ -1,0 +1,4 @@
+Enter two numbers
+4.5
+3.6
+The multiplication of two numbers is: 16.20
