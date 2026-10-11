@@ -6,7 +6,7 @@ Gross salary: 32250.0
 
 
 
-note:  This can be used for same output
+note:  This can be also used for same output
 
 hra = basicSalary <= 10000 ? basicSalary * 0.20f
                                : basicSalary <= 20000 ? basicSalary * 0.25f
